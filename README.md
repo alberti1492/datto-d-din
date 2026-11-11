@@ -3,7 +3,7 @@
 This fork adds **1618 Rounded** and **1618 Mono**, distributed under the SIL Open Font License 1.1. **1618 design and adaptation author: Matthias A. Peterseim.**
 
 - [1618 typefaces, specimen and licence](1618/README.md)
-- [1618 font release](https://github.com/alberti1492/datto-d-din/releases/tag/1618-v1.0)
+- [1618 font release](https://github.com/alberti1492/datto-d-din/releases/tag/1618-v1.1)
 
 ---
 

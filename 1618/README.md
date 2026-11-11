@@ -2,9 +2,9 @@
 
 **1618 design and adaptation author: Matthias A. Peterseim.**
 
-1618 Rounded is a proportional, engraving-inspired typeface with eight weights and matching obliques. 1618 Mono Regular is its fixed-width companion for tables, charts and measurement readouts.
+1618 Rounded is a proportional, engraving-inspired typeface with eight weights and matching obliques. 1618 Mono is its fixed-width companion for tables, charts and measurement readouts. Both families have eight weights and matching obliques. Version 1.1 gives the heavier Rounded cuts more space.
 
-[Download the finished release in OTF and WOFF2](https://github.com/alberti1492/datto-d-din/releases/tag/1618-v1.0) · [Online specimen](https://1618instruments.com/fonts/)
+[Download the finished release in OTF and WOFF2](https://github.com/alberti1492/datto-d-din/releases/tag/1618-v1.1) · [Online specimen](https://1618instruments.com/fonts/) · [Weight specimen](https://1618instruments.com/fonts/weights.html)
 
 ![1618 Rounded and 1618 Mono specimen](specimen.png)
 

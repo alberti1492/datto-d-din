@@ -1,18 +1,17 @@
-1618 Rounded 1.001 and 1618 Mono Regular 1.000
-
+1618 Rounded and 1618 Mono · 1.100
 1618 design and adaptation author: Matthias A. Peterseim.
 
-1618 Rounded renames 1618 Instruments Rounded 1.000. All sixteen styles
-retain their original outlines, advances and layout tables.
+1618 Mono now includes Thin, Light, Regular, Roman, Medium, Semibold,
+Bold and Extrabold, each with a matching 11° oblique. Spacing glyphs
+use a 620-unit advance at 1000 UPM. Combining marks and invisible
+controls can have zero advance. The fixed-width design includes a
+slashed zero and distinct I, l and 1.
 
-1618 Mono Regular is derived from 1618 Rounded Regular. Spacing glyphs
-have a 620-unit advance on a 1,000-unit em. Combining marks and layout
-controls can have zero advance. I, i, l and 1 have typewriter-style
-details, and zero has a slash. Wide glyphs are fitted to the cell.
-Kerning and substitutions were omitted to preserve grid alignment.
-This is a single Regular cut. Full shaping for complex scripts is
-outside the coverage of this build.
+1618 Rounded opens the letter and numeral spacing in Semibold, Bold
+and Extrabold and their obliques by 18, 34 and 46 units respectively.
+The other cuts retain their previous spacing.
 
-Both families derive from Datto D-DIN and the Noto font project.
-See OFL.txt for upstream copyright notices and the SIL Open Font
-License, Version 1.1. Include both files with redistributed fonts.
+Both families derive from Datto D-DIN Regular, designed by Charles Nix
+at Monotype, with additional outlines from the Noto font project.
+See OFL.txt for upstream notices and SIL Open Font License 1.1.
+Complex-script shaping is limited and requires companion fonts.
